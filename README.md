@@ -1,4 +1,5 @@
 It is a backup version.
+user the branch "manyuser"
 
 shadowsocks
 ===========
